@@ -1,6 +1,7 @@
 # AI
 Data Science | Machine Learning | Deep Learning <br>
-Multiple Courses and practices including various exercises and projects to help you building and improving your knowledge and skill in AI and Machine learning.<br>
+Multiple Courses and practices including various exercises and projects which i took and completed to help you building and improving your knowledge and skill in AI and Machine learning.<br>
+There is also my approach besides the answer in each session.<br> 
 ## Data Science
 - 1 Python Crash Course<br>
     * working with the Windows terminal environment (cd, cd .., dir, cls, jupyter notebook)<br>
@@ -23,3 +24,10 @@ Multiple Courses and practices including various exercises and projects to help 
 - 2
 ## Machine Learning
 ## Deep Learning
+
+
+### Note : there is three files in each directory:
+- Session : covers the content of that session in code.
+- Practice : the Practice to review and learn the stuff you being taught in the session.
+- My_Answer : My answer to the Practice.
+- Answer : True Answer of the Practice file.
