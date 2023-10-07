@@ -22,17 +22,17 @@ There is also my approach besides the answer in each session.<br>
     * (lower, upper, split | keys, values ​​| append, pop, remove, in | add)<br>
     * Indexing, slicing and step jumping (indexing, slicing, step)<br>
 - 2  Numpy
-   * Numpy Arrays
-   * Types of array creation methods (np.array,np.arange,np.ones,np.zeros,np.linspace,np.eye,np.random(rand,randn,randint))
-   * methods and features (reshape, min, max, argmax, argmin, flatten, vstack, hstack, concatenate, shape, dtype)
-   * Indexing and Slicing (Bracket Indexing, Slicing)
-   * Broadcasting
-   * Arrays are pointers and the copy solution
-   * Indexing in matrices ([row_start:row_end,Column_Start:Column_end])
-   * Selecting a few special rows and columns (Fancy Indexing)
-   * range function
-   * Writing query and separating part from the array based on a condition (Selection)
-   * Operations in arrays (calculation operations and mathematical functions)
+   * Numpy Arrays<br>
+   * Types of array creation methods (np.array,np.arange,np.ones,np.zeros,np.linspace,np.eye,np.random(rand,randn,randint))<br>
+   * methods and features (reshape, min, max, argmax, argmin, flatten, vstack, hstack, concatenate, shape, dtype)<br>
+   * Indexing and Slicing (Bracket Indexing, Slicing)<br>
+   * Broadcasting<br>
+   * Arrays are pointers and the copy solution<br>
+   * Indexing in matrices ([row_start:row_end,Column_Start:Column_end])<br>
+   * Selecting a few special rows and columns (Fancy Indexing)<br>
+   * range function<br>
+   * Writing query and separating part from the array based on a condition (Selection)<br>
+   * Operations in arrays (calculation operations and mathematical functions)<br>
 ## Machine Learning
 ## Deep Learning
 
